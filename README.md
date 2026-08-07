@@ -4,4 +4,4 @@
   </a>
 </p>
 
-<img src="https://textures.minecraft.net/texture/3a5213ac241500833990db796088d320dd7fbd745a1b6f6c0c47f4edd9134640" width="200">
+<img src="https://tabavatars.net/avatar/?texture=3a5213ac241500833990db796088d320dd7fbd745a1b6f6c0c47f4edd9134640" width="200" alt="Minecraft Bedrock Avatar">
