@@ -4,4 +4,10 @@
   </a>
 </p>
 
-<img src="https://tabavatars.net/avatar/?texture=3a5213ac241500833990db796088d320dd7fbd745a1b6f6c0c47f4edd9134640" width="200" alt="Minecraft Bedrock Avatar">
+<div align="center">
+  <img src="https://tabavatars.net/avatar/?xuid=2535413125489194" width="200">
+  <br>
+  <b>🎮 JMellyWrld12</b>
+  <br>
+  Minecraft Bedrock Edition
+</div>
