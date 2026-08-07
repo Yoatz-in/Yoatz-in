@@ -4,5 +4,4 @@
   </a>
 </p>
 
-🎮 Minecraft
-<img src="https://mc-heads.net/body/JMellyWrld12" width="128">
+<img src="https://textures.minecraft.net/texture/3a5213ac241500833990db796088d320dd7fbd745a1b6f6c0c47f4edd9134640" width="200">
