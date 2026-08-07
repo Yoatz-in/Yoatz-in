@@ -4,11 +4,5 @@
   </a>
 </p>
 
-<iframe
-  src="http://marcuswhybrow.github.com/minecraft-widgets/skin.html?playername=JMellyWrld12&scale=6"
-  width=*16
-  height=*32
-  frameborder="0"
-  scrolling="0"
-  allowtransparency="true">
-</iframe>
+🎮 Minecraft
+<img src="https://mc-heads.net/body/JMellyWrld12" width="128">
